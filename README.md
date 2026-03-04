@@ -28,6 +28,10 @@ Halo! jadi ini adalah dokumentasi octary home. kalian bisa belajar dari dokument
 - Navigasi Floating Dock di bagian bawah layar
 - Komponen UI modular dan dapat digunakan ulang
 
+<p align="center">
+  <img src="./public/Readme3.png" alt="Octary Banner" />
+</p>
+
 ## 🗂️ Struktur Folder
 
 ```
@@ -60,10 +64,6 @@ src/
   lib/
     utils.ts
 ```
-
-<p align="center">
-  <img src="./public/Readme3.png" alt="Octary Banner" />
-</p>
 
 ## 📦 Persyaratan
 
