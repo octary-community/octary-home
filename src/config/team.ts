@@ -16,7 +16,7 @@ export interface TeamMember {
   
 export const teamMembers: TeamMember[] = [
     {
-      name: "Segharan Lanang Hidayat",
+      name: "Segharan Lanang Hidayat.",
       role: "Full Stack Developer",
       image: "/sung.png",
       bgImage: "/back.png",
