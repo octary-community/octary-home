@@ -61,13 +61,13 @@ src/
     utils.ts
 ```
 
-<p align="center">
-  <img src="./public/Readme3.png" alt="Octary Banner" />
-</p>
-
 ## 📦 Persyaratan
 
 - Node.js 18.18+ disarankan
+
+<p align="center">
+  <img src="./public/Readme3.png" alt="Octary Banner" />
+</p>
 
 ## 🛠️ Instalasi & Perintah
 
